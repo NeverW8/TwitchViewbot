@@ -7,7 +7,9 @@ A "work in progress" twitch viewbot.
     * pip install jsonlib-python3
     
   Download and install streamlink: https://github.com/streamlink/streamlink
+  
   Python 3.x.x
+  
   A proxy list name "proxylist.txt"
    
 **How to run**
